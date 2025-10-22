@@ -32,12 +32,10 @@
 - [**Enigma**](https://github.com/yukado/enigma) – Full‑stack chat app with Spring Boot backend (JWT, STOMP) and Android frontend (Kotlin, Compose, Clean Architecture)  
 - [**Raffle Multi‑Module**](https://github.com/yukado/raffle-multi-module) – Modular raffle system with Spring Boot, Vue.js, TypeScript, MySQL, and Android client  
 - [**Movie Explorer**](https://github.com/yukado/movie-explorer) – JavaScript app for exploring movies  
-- [**GreenRaffle**](https://github.com/yukado/greenraffle) – Full‑stack chat app with Spring Boot backend
+- [**GreenRaffle**](https://github.com/yukado/greenraffle) – Full‑stack raffle app with Spring Boot backend
 
 ---
 
 ## 🌍 Connect
 - GitHub: [@yukado](https://github.com/yukado)  
-- (Optional: LinkedIn, personal website, etc.)
 
----
