@@ -1,10 +1,13 @@
 # Hi, I'm YuKaDo 👋
 
-**Backend  Developer | Clean Architecture Enthusiast | Java / Kotlin & Spring Boot**
+> ⚙️ Backend Developer | Spring Boot • Quarkus • Mavan/Gradle • Java/Kotlin • Vue.js • Typescript • Jwt/OAuth2 • Clean Architecture • Test-Driven
+
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
+Backend developer focused on clean architecture, modular Spring Boot projects, and real-world security integrations. I care deeply about structure, test coverage, and developer experience.
+
 - Passionate about **clean code, modular architectures, and developer experience**
 - Strong background in **Java/Kotlin, Spring Boot, Quarkus, Microservices**
 - Building **Android apps with Jetpack Compose, Retrofit, OkHttp**
@@ -33,9 +36,9 @@
 - [**Raffle Multi‑Module**](https://github.com/yukado/raffle-multi-module) – Modular raffle system with Spring Boot, Vue.js, TypeScript, MySQL, and Android client  
 - [**Movie Explorer**](https://github.com/yukado/movie-explorer) – JavaScript app for exploring movies  
 - [**GreenRaffle**](https://github.com/yukado/greenraffle) – Full‑stack raffle app with Spring Boot backend
-
+- [**Spring REST Demo**](https://github.com/yukado/spring-rest-demo)** - Modular Spring Boot backend with REST API, OAuth2 login, validation, error handling, and full test coverage.
 ---
 
-## 🌍 Connect
+📫 Reach me at: [yukado@live.de]
 - GitHub: [@yukado](https://github.com/yukado)  
 
