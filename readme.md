@@ -1,4 +1,4 @@
-# Hi, I'm YuKaDo 👋
+# Hi, I'm YuKaDo 
 
 > ⚙️ Backend Developer | Spring Boot • Quarkus • Mavan/Gradle • Java/Kotlin • Vue.js • Typescript • Jwt/OAuth2 • Clean Architecture • Test-Driven
 
