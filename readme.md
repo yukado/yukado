@@ -33,9 +33,7 @@ Backend developer focused on clean architecture, modular Spring Boot projects, a
 
 ## 📂 Highlight Projects
 - [**Enigma**](https://github.com/yukado/enigma) – Full‑stack chat app with Spring Boot backend (JWT, STOMP) and Android frontend (Kotlin, Compose, Clean Architecture)  
-- [**Raffle Multi‑Module**](https://github.com/yukado/raffle-multi-module) – Modular raffle system with Spring Boot, Vue.js, TypeScript, MySQL, and Android client  
 - [**Movie Explorer**](https://github.com/yukado/movie-explorer) – JavaScript app for exploring movies  
-- [**GreenRaffle**](https://github.com/yukado/greenraffle) – Full‑stack raffle app with Spring Boot backend
 - [**Spring REST Demo**](https://github.com/yukado/spring-rest-demo)** - Modular Spring Boot backend with REST API, OAuth2 login, validation, error handling, and full test coverage.
 ---
 
